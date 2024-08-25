@@ -1,5 +1,5 @@
 <h1>Movie Searching App</h1>
-A React-based web application that allows users to search for movies and view details about them. The app fetches movie data from an external API and displays it in a user-friendly interface.
+A React-based web application named PopcornVista that allows users to search for movies and view details about them. The app fetches movie data from an external API and displays it in a user-friendly interface.
 
 <h2>Features</h2>
 <ul>
